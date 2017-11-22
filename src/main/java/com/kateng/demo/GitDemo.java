@@ -5,6 +5,6 @@ public class GitDemo {
 		System.out.println("wo cao ni ma ge biide ");
 		System.out.println("asshole");
 		System.out.println("asshole bitch");
-		System.out.println("make some noise");
+		System.out.println("我日");
 	}
 }
