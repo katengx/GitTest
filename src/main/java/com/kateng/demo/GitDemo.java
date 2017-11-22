@@ -2,6 +2,6 @@ package com.kateng.demo;
 
 public class GitDemo {
 	public static void main(String[] args) {
-		System.out.println("test1,test2aaaaa");
+		System.out.println("test1");
 	}
 }
